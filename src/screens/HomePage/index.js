@@ -10,8 +10,10 @@ function HomePage() {
             <h4>This is an inclass assignment</h4>
 
             {/* Q5: There are 2 ways to add prop (properties) to a React Component. 
-                Make this component (HomePage component) accept props with the destructured method. */}
-
+                Make this component (HomePage component) accept props with the destructured method. 
+                Add the following props: title, subtitle, description.    
+            */}
+                
             
         </div>
     );
