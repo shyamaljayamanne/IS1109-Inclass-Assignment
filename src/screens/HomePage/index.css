@@ -1,0 +1,8 @@
+.home-page{
+    min-height: 100vh;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+}
